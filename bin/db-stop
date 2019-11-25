@@ -1,0 +1,2 @@
+docker kill nestjs-battletech-db
+docker rm nestjs-battletech-db
